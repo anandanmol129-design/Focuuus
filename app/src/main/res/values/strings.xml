@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Focuuus</string>
+    <string name="accessibility_description">Focuuus watches which app is open so it can block apps during your routines, enforce your app limits and show the floating timer. It reads only the name of the app in front, never what is on screen, and nothing leaves your phone.</string>
+</resources>

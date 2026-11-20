@@ -1,0 +1,7 @@
+<resources>
+    <!-- Always dark: the design is a black dial with orange accents. -->
+    <style name="Theme.Focuuus" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF0B0B0B</item>
+        <item name="android:windowSplashScreenBackground">#FF0B0B0B</item>
+    </style>
+</resources>
